@@ -1,4 +1,4 @@
-table 50100 book
+table 50100 books
 {
     DataClassification = ToBeClassified;
 
